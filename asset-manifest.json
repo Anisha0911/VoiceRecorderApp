@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VoiceRecorderApp/static/css/main.124dd490.css",
+    "main.js": "/VoiceRecorderApp/static/js/main.293faa51.js",
+    "static/js/787.b62f1eca.chunk.js": "/VoiceRecorderApp/static/js/787.b62f1eca.chunk.js",
+    "index.html": "/VoiceRecorderApp/index.html",
+    "main.124dd490.css.map": "/VoiceRecorderApp/static/css/main.124dd490.css.map",
+    "main.293faa51.js.map": "/VoiceRecorderApp/static/js/main.293faa51.js.map",
+    "787.b62f1eca.chunk.js.map": "/VoiceRecorderApp/static/js/787.b62f1eca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.124dd490.css",
+    "static/js/main.293faa51.js"
+  ]
+}
